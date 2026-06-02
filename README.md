@@ -84,6 +84,10 @@ plot(t,edsbsc);
 
 <img width="761" height="721" alt="image" src="https://github.com/user-attachments/assets/e45ecd6b-ec68-490a-91d6-c30b24d82df6" />
 
+### Tabular Column:
+
+<img width="857" height="1600" alt="image" src="https://github.com/user-attachments/assets/c5ab4878-819e-44a3-bfa8-8c137d20a866" />
+
 ### Result:
 Thus the DSB-SC-AM Modulation and Demodulation is generated.
 #
